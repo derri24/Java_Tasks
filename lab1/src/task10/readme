@@ -1,0 +1,7 @@
+set path=C:\Users\derri\.jdks\openjdk-18.0.2.1\bin
+javac -d ./src/task10 ./src/task9/Task9.java
+java -classpath ./src/task10 task9/Task9
+
+
+Это не вредоносная ссылка, это ссылка на скрин работы задачи №10 :)
+https://ibb.co/LdfDJfk
